@@ -9,7 +9,7 @@ This site features a collection of projects that have been completed as part of 
 
 - **Project 1: 🚕 Predicting Lyft and Uber Price** - This project uses the Linear Regression algorithm to predict the prices for Lyft and Uber rides based on factors such as distance, cab type, etc. 
 
-- **Project 2: 🌧️ Predicting Tomorrow's Rain** -  This project uses the Logistic Regression algorithm to predict whether it will rain tomorrow based on various factors such as location, today weather, etc.
+- **Project 2: 🌧️ Predicting Tomorrow's Rain** -  This project uses the Logistic Regression algorithm and Support Vector Machine to predict whether it will rain tomorrow based on various factors such as location, today weather, etc.
 
 - **Project 3: 💔 Predicting Heart Failure Risk** - This project uses the XGBoost algorithm to predict the risk of heart failure in individuals.
 
